@@ -1,5 +1,8 @@
 # IOTstack Backup and Restore
 
+Hopefully start soon .. have been swarmifying iotstack and needed a better backup option for some of the issues, this is a good start.
+
+
 This project documents my approach to backup and restore of [SensorsIot/IOTstack](https://github.com/SensorsIot/IOTstack). My design goals were:
 
 1. Avoid the double-compression implicit in the official backup scripts:
